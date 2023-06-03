@@ -1,0 +1,8 @@
+{
+  "useSmtp": false,
+  "host": "stmp.gmail.com",
+  "port": 465,
+  "username": "getusbacktoworknow@gmail.com",
+  "password": "watcotw.2012",
+  "recipientEmail": "the.bdot@gmail.com"
+}
